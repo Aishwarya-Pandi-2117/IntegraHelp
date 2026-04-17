@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: "Segoe UI", Arial, sans-serif;
+    background-color: #f5f7fb;
+}
+
+h1, h2 {
+    color: #0033A0;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+button {
+    cursor: pointer;
+}
